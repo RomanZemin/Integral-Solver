@@ -1,0 +1,4 @@
+C:\Users\kirya\source\repos\Project Integral\Project Integral\x64\Debug\Project Integral.vcxproj.AssemblyReference.cache
+C:\Users\kirya\source\repos\Project Integral\Project Integral\x64\Debug\Project Integral.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kirya\source\repos\Project Integral\Project Integral\x64\Debug\ProjectIntegral.GUI.resources
+C:\Users\kirya\source\repos\Project Integral\Project Integral\x64\Debug\Project Integral.vcxproj.GenerateResource.cache
